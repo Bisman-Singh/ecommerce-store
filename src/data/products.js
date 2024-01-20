@@ -1,0 +1,15 @@
+export const products = [
+  { id: 1, name: 'Wireless Headphones', price: 79.99, category: 'Electronics', rating: 4.5, image: 'https://picsum.photos/300/300?random=1', description: 'Premium wireless headphones with noise cancellation and 30-hour battery life.' },
+  { id: 2, name: 'Smart Watch', price: 199.99, category: 'Electronics', rating: 4.7, image: 'https://picsum.photos/300/300?random=2', description: 'Feature-packed smartwatch with health monitoring and GPS tracking.' },
+  { id: 3, name: 'Bluetooth Speaker', price: 49.99, category: 'Electronics', rating: 4.3, image: 'https://picsum.photos/300/300?random=3', description: 'Portable waterproof speaker with deep bass and 12-hour playtime.' },
+  { id: 4, name: 'Denim Jacket', price: 89.99, category: 'Clothing', rating: 4.4, image: 'https://picsum.photos/300/300?random=4', description: 'Classic denim jacket with a modern slim fit and premium stitching.' },
+  { id: 5, name: 'Running Shoes', price: 129.99, category: 'Clothing', rating: 4.6, image: 'https://picsum.photos/300/300?random=5', description: 'Lightweight running shoes with responsive cushioning and breathable mesh.' },
+  { id: 6, name: 'Cotton T-Shirt Pack', price: 34.99, category: 'Clothing', rating: 4.2, image: 'https://picsum.photos/300/300?random=6', description: 'Pack of 3 premium cotton t-shirts in assorted colors.' },
+  { id: 7, name: 'JavaScript: The Good Parts', price: 29.99, category: 'Books', rating: 4.8, image: 'https://picsum.photos/300/300?random=7', description: 'Essential reading for any JavaScript developer, covering the best features of the language.' },
+  { id: 8, name: 'Design Patterns', price: 44.99, category: 'Books', rating: 4.6, image: 'https://picsum.photos/300/300?random=8', description: 'Gang of Four classic on reusable object-oriented software design patterns.' },
+  { id: 9, name: 'Clean Code', price: 39.99, category: 'Books', rating: 4.7, image: 'https://picsum.photos/300/300?random=9', description: 'A handbook of agile software craftsmanship by Robert C. Martin.' },
+  { id: 10, name: 'Desk Lamp', price: 54.99, category: 'Home', rating: 4.3, image: 'https://picsum.photos/300/300?random=10', description: 'Adjustable LED desk lamp with multiple brightness levels and color temperatures.' },
+  { id: 11, name: 'Coffee Maker', price: 149.99, category: 'Home', rating: 4.5, image: 'https://picsum.photos/300/300?random=11', description: 'Programmable drip coffee maker with thermal carafe and auto-shutoff.' },
+  { id: 12, name: 'Throw Blanket', price: 39.99, category: 'Home', rating: 4.4, image: 'https://picsum.photos/300/300?random=12', description: 'Ultra-soft fleece throw blanket, perfect for cozy evenings.' },
+  { id: 13, name: 'USB-C Hub', price: 59.99, category: 'Electronics', rating: 4.1, image: 'https://picsum.photos/300/300?random=13', description: '7-in-1 USB-C hub with HDMI, USB 3.0, SD card reader, and power delivery.' },
+];
